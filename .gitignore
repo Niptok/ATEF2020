@@ -1,10 +1,5 @@
 #EXTM3U
 #EXTINF:0, BEIN SPORT 1 HD
 https://scontent-mxp1-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/11218947_1216954588319106_782651473393189221_n.jpg?oh=0079a78eee34134f89eeb0c512b82816&oe=576D3BD2
-#EXTINF:0, TF1
-http://62.65.140.213:80/session/67dccc70-ddf0-11e5-9ef6-005056bc06d1/nvnv5a/2/2027/4240000/index.m3u8
-#EXTINF:0, ARTE HD
-http://62.65.140.151:80/session/3895cda4-ddf0-11e5-beb1-005056bc06d1/nvnv5a/2/2029/4240000/index.m3u8
-#EXTINF:0, MBC_ACTION
-https://upload.wikimedia.org/wikipedia/fr/d/d7/TF1_HD_%282013%29.png
+
 

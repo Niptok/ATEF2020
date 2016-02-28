@@ -3,8 +3,6 @@
 #EXTM3U
 #EXTINF:0, BEIN SPORT 1 HD
 http://live01.pushpublish.tv/mylive/bein1/playlist.m3u8
-#EXTINF:0, BEIN SPORT 2 HD
-http://live01.pushpublish.tv/mylive/bein2/playlist.m3u8
 #EXTINF:0, TF1
 http://62.65.140.213:80/session/67dccc70-ddf0-11e5-9ef6-005056bc06d1/nvnv5a/2/2027/4240000/index.m3u8
 #EXTINF:0, ARTE HD

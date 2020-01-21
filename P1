@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://p0.storage.canalblog.com/05/84/1232101/103857117_o.png" tvg-id="Disneycinema.fr",Disney Cinema
+http://144.217.253.140/Disneycinema/tracks-v1a1/index.m3u8

@@ -2,3 +2,23 @@
 
 #EXTINF:-1 tvg-logo="https://p0.storage.canalblog.com/05/84/1232101/103857117_o.png" tvg-id="Disneycinema.fr",Disney Cinema
 http://144.217.253.140/Disneycinema/tracks-v1a1/index.m3u8
+#EXTINF:-1,Nat Geo Abu Dhabi
+http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8
+#EXTINF:-1 group-title="MOVIE",MBC MAX
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
+#EXTINF:-1 group-title="MOVIE",MBC2
+http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
+#EXTINF:-1 group-title="MOVIE",MBC4
+http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
+#EXTINF:-1 group-title="MOVIE",MBC ACTION
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
+#EXTINF:0,Al Kass Sports 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:0,Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:0,Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:0,Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:0,Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5

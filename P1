@@ -24,3 +24,11 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 http://alkasmsl4.akamaized.net/hls/live/2003123/four4ansdbv/master570.m3u8
 #EXTINF:0,Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:0,MBC 3
+http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
+#EXTINF:0,MBC 3
+http://109.236.92.205:8080/hls/32.m3u8?tkn=45oE4MJqqlfqXEVI6kw9Jw&tms=1579803555&code=123456
+#EXTINF:0,BARAEM
+http://109.236.92.205:8080/hls/7050.m3u8?tkn=QhLQ32g-uotf2yME6i4ckQ&tms=1579803492&code=123456
+#EXTINF:0,SPACETOON
+http://109.236.92.205:8080/hls/49.m3u8?tkn=pOlxm2D4Cjo1Ld9cl_l94A&tms=1579803659&code=123456

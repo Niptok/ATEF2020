@@ -20,5 +20,7 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 #EXTINF:0,Al Kass Sports 4
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:0,Al Kass Sports 4
+http://alkasmsl4.akamaized.net/hls/live/2003123/four4ansdbv/master570.m3u8
 #EXTINF:0,Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
